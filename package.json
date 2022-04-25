@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KyleJeffreyGeary/just-another-RPG/issues"
   },
-  "homepage": "https://github.com/KyleJeffreyGeary/just-another-RPG#readme"
+  "homepage": "https://github.com/KyleJeffreyGeary/just-another-RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
 }
